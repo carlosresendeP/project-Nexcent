@@ -405,7 +405,7 @@ export const Footer = styled.div`
 `
 
 export const CompanyInfo = styled.div`
-    width: 50%;
+    width: 40%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -466,7 +466,7 @@ export const CompanyInfo = styled.div`
 `
 
 export const Links = styled.div`
-    width: 50%;
+    width: 70%;
     display: flex;
     align-items: start;
     justify-content: center;
