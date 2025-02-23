@@ -30,7 +30,7 @@ function Home() {
       <Content>
         <HeroContent>
           <h2>
-            Lições epercepções <span>de 8 anos</span>
+            Lições e percepções <span>de 8 anos</span>
           </h2>
           <p>Onde expandir seu negócio como fotógrafo: site ou mídia social?</p>
           <Button>
