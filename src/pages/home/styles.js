@@ -31,7 +31,7 @@ export const Content = styled.div`
     max-width: 1200px;
 
     img{
-        width: 100%;
+        width: 50%;
     }
 
     @media (max-width: 468px){
