@@ -1,5 +1,5 @@
 import GlobalStyles from '../../Styles/globalstyles'
-import Logo from '../../assets/logo.svg';
+import Logo from '../../assets/Logo.svg';
 import {Container, Navigate, Button} from './styles';
 
 export function Header(){
