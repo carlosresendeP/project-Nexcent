@@ -5,7 +5,7 @@ import ClubIcon from '../../assets/icons/clubs-1.svg'
 import MemberIcon from '../../assets/icons/Members.svg'
 import PayIcon from '../../assets/icons/payments.svg'
 import pana from '../../assets/pana.svg'
-import logo from '../../assets/logo.svg'
+import logo from '../../assets/Logo.svg'
 import iconsend from '../../assets/icons/send.svg'
 
 
