@@ -1,4 +1,4 @@
-import HeroImage from '../../assets/hero-image.svg'
+import HeroImage from '../../assets/Hero-image.svg'
 import unlockImage from '../../assets/unlock-image.svg'
 import EventIcon from '../../assets/icons/event.svg'
 import ClubIcon from '../../assets/icons/clubs-1.svg'
